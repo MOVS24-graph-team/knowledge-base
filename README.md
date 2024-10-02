@@ -1,2 +1,26 @@
-# knowledge-base
-Knowledge Base
+# Проект: Построение новостного графа и сервисов на его основе
+
+### Куратор: 
+| ФИО                         | telegram         | github                                                                            |
+| --------------------------- | ---------------- | --------------------------------------------------------------------------------- |
+| Надежда Гераськина | @Nadya_Gera | [NGeraskina](https://github.com/NGeraskina)  |
+
+### Команда:
+
+| ФИО                         | telegram         | github                                                                            |
+| --------------------------- | ---------------- | --------------------------------------------------------------------------------- |
+| Жданович Иван Егорович      | @otpok           | [Eflarus](https://github.com/orgs/MOVS24-graph-team/people/Eflarus)               |
+| Малыш Алексей Александрович | @laexey          | [AlexeyMalish](https://github.com/orgs/MOVS24-graph-team/people/AlexeyMalish)     |
+| Филоненко Никита Дмитриевич | @nikitafilonenko | [Nikita Filonenko](https://github.com/orgs/MOVS24-graph-team/people/nikfilonenko) |
+| Степанов Данила Михайлович  | @biQvOid         | [biQvOid](https://github.com/orgs/MOVS24-graph-team/people/biQvOid)               |
+
+## Описание проекта
+Проект заключается в сборе новостей, их анализе методами NLP и использованием графовых нейронных сетей (GNN) для обработки, построения и прогнозирования связей между новостями. Проект включает в себя реализацию сервисов для анализа и предсказания влияния новостей на различные события, компании и рынки.
+
+## Пререквизиты:
+- Основы теории графов.
+- Знание GNN (GCN, GraphSAGE и др.).
+- Опыт работы с библиотеками для анализа графов (NetworkX, PyTorch Geometric, StellarGraph).
+- Навыки работы с библиотеками для парсинга данных (Beautiful Soup, Selenium).
+
+#  [План](checkpoints)
