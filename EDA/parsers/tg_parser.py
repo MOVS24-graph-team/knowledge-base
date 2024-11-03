@@ -82,8 +82,8 @@ def parse_telegram_channels(api_id, api_hash, channels, max_posts, csv_file):
                         "post": post,
                         "url": url,
                         "tags": tags,
-                        "links": links,
-                        "resource": res[resource]
+                        "external_links": links,
+                        "source": res[resource]
                     })
 
                     post_count += 1
